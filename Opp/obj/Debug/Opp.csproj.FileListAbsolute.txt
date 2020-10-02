@@ -1,0 +1,28 @@
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\bin\Debug\Opp.exe.config
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\obj\Debug\Opp.csprojResolveAssemblyReference.cache
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\obj\Debug\Opp.Form1.resources
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\obj\Debug\Opp.Form2.resources
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\obj\Debug\Opp.Properties.Resources.resources
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\obj\Debug\Opp.csproj.GenerateResource.Cache
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\bin\Debug\Opp.exe
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\bin\Debug\Opp.pdb
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\obj\Debug\Opp.Form3.resources
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\obj\Debug\Opp.Form4.resources
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\obj\Debug\Opp.exe
+c:\users\propietario\documents\visual studio 2015\Projects\Opp\Opp\obj\Debug\Opp.pdb
+C:\Users\Propietario\Documents\Visual Studio 2015\Projects\Opp\Opp\obj\Debug\Opp.Form5.resources
+C:\Users\Propietario\Documents\Visual Studio 2015\Projects\Opp\Opp\obj\Debug\Opp.Form6.resources
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\bin\Debug\Opp.exe.config
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.exe
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.pdb
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.csprojResolveAssemblyReference.cache
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.Form1.resources
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.Form2.resources
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.Form3.resources
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.Form4.resources
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.Form5.resources
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.Form6.resources
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.Properties.Resources.resources
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\obj\Debug\Opp.csproj.GenerateResource.Cache
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\bin\Debug\Opp.exe
+C:\Users\Propietario\Documents\Ciclo 02-2020\Prueba\Opp\Opp\bin\Debug\Opp.pdb
